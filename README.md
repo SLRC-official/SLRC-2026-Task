@@ -42,7 +42,7 @@ This repository contains the official task descriptions, guidelines, and resourc
 - University Category
     - 📄 Task Document : [University Category](docs/SLRC-2026-University-Category-Task.pdf)
     - 🤖 3D Arena : [University 3D Arena](https://bit.ly/SLRC-Uni-Arena)
-    - 🔃 Simulation documents and guidelines repo : To be relased soon.
+    - 🔃 Simulation documents and guidelines repo : To be released soon.
 
 
 
