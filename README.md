@@ -42,7 +42,7 @@ This repository contains the official task descriptions, guidelines, and resourc
 - University Category
     - 📄 Task Document : [University Category](docs/SLRC-2026-University-Category-Task.pdf)
     - 🤖 3D Arena : [University 3D Arena](https://bit.ly/SLRC-Uni-Arena)
-    - 🔃 Simulation documents and guidelines repo : [Simulation](https://github.com/SLRC-official/slrc_sim_2026)
+    - 🔃 Simulation documents and guidelines repo : To be relased soon.
 
 
 
@@ -55,7 +55,7 @@ To be released soon.
 
 ### SLRC 2026 | University Category Task Description
 
-To be relased soon.
+To be released soon.
 
 ## Stay connected
 ---
@@ -70,7 +70,7 @@ Stay updated with the latest announcements and competition details through our o
 
 📌 SLRC YouTube Channel: [Sri Lankan Robotics Challenge](https://youtube.com/@srilankanroboticschallenge2341?si=uRBchqYlCUkpAJmF)
 
-📌 Contact Email: [slrc@uom.lk] (mailto:slrc@uom.lk)
+📌 Contact Email: [slrc@uom.lk](mailto:slrc@uom.lk)
 
 📌 LinkedIn: [Electronic Club UOM](https://www.linkedin.com/company/electronic-club-uom/)
 
