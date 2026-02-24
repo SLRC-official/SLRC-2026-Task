@@ -40,9 +40,10 @@ This repository contains the official task descriptions, guidelines, and resourc
     - 🤖 3D Arena : [School 3D Arena](https://bit.ly/SLRC-Sch-Arena)
 
 - University Category
-    - 📄 Task Document : [University Category](docs/SLRC-2026-University-Category-Task.pdf)
+    - 📄 Task Document : [University Category_Doc_V1](docs/SLRC-2026-University-Category-Task.pdf)
+                        : [University_Category_Doc_V2](docs/SLRC-2026-University-Category-TaskV2.pdf)
     - 🤖 3D Arena : [University 3D Arena](https://bit.ly/SLRC-Uni-Arena)
-    - 🔃 Simulation documents and guidelines repo : To be released soon.
+    - 🔃 Simulation documents and guidelines repo : [Simulation- repository](https://github.com/SLRC-official/slrc_sim_2026)
 
 
 
