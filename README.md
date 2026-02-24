@@ -50,9 +50,10 @@ This repository contains the official task descriptions, guidelines, and resourc
 ## Demo Videos
 ---
 
-### SLRC 2026 | School Category Task Description
+### SLRC 2026 | School Category [Demo Video](https://youtu.be/yDuLeHqXupI?si=mUJB_oYMp0HiCbJa)
 
-To be released soon.
+<img src = "assets/schoolTask.png" width ="500" height ="500">
+
 
 ### SLRC 2026 | University Category Task Description
 
